@@ -55,5 +55,8 @@
   },
   "bin": {
     "mssql": "./bin/mssql"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
